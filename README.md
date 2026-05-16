@@ -14,7 +14,7 @@
 
 ## How i work
 
-항상 생각해라. 항상 대비해라. 항상 준비해라. 
+항상 생각해라. 항상 대비해라. 항상 준비해라.
 
 준비되어있는 사람과 준비중인 사람은 차이가 매우 크다.
 <br />
@@ -30,12 +30,10 @@
   <img src="https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=Webpack&logoColor=black">
 </div>
 
-  ### I've used it before.
+### I've used it before.
 <div style="display:flex;gap:30px;flex-wrap:wrap;">
-
-  <img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"> 
-  <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"> 
-
+  <img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
+  <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
 </div>
 <br />
 <br />
